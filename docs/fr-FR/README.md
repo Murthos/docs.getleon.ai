@@ -65,7 +65,7 @@ git clone -b master https://github.com/leon-ai/leon.git leon
 
 ##### Branche develop
 
-La branche `develop` est la branche par défaut, c'est sur celle-ci que les derniers changements sont fusionnés. Via cette branche vous obtienderai les toutes dernières mises à jour, en revanche elle ne sera pas aussi stable que la `master` :
+La branche `develop` est la branche par défaut, c'est sur celle-ci que les derniers changements sont fusionnés. Via cette branche vous obtiendrez les toutes dernières mises à jour, en revanche elle ne sera pas aussi stable que la `master` :
 
 ```bash
 git clone https://github.com/leon-ai/leon.git leon
